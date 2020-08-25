@@ -15,7 +15,7 @@ function Todo(props){
     return (
         <div >
             {listItems}
-            </div>
+           </div>
     )
 }
 export default Todo;
